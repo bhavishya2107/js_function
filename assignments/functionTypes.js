@@ -12,6 +12,7 @@
  * @return {string} the number as a string
  */
 
+
 //Function Decleration
 function convertToString(n) {
   return String(n);
